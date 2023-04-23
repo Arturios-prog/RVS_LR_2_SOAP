@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPTest", "SOAPTest\SOAPTest.csproj", "{581AA6B4-359B-4FAF-AC9E-EDB01793AC47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapServer", "SoapServer\SoapServer.csproj", "{C584F75F-FDC4-48A4-84AC-5989DF1A7EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soap.Shared", "Soap.Shared\Soap.Shared.csproj", "{1993F7C8-E4FF-46B1-A4D9-33490E28F116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581AA6B4-359B-4FAF-AC9E-EDB01793AC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581AA6B4-359B-4FAF-AC9E-EDB01793AC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581AA6B4-359B-4FAF-AC9E-EDB01793AC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581AA6B4-359B-4FAF-AC9E-EDB01793AC47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C584F75F-FDC4-48A4-84AC-5989DF1A7EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C584F75F-FDC4-48A4-84AC-5989DF1A7EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C584F75F-FDC4-48A4-84AC-5989DF1A7EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C584F75F-FDC4-48A4-84AC-5989DF1A7EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1993F7C8-E4FF-46B1-A4D9-33490E28F116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1993F7C8-E4FF-46B1-A4D9-33490E28F116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1993F7C8-E4FF-46B1-A4D9-33490E28F116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1993F7C8-E4FF-46B1-A4D9-33490E28F116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FECBD80-A2FE-4988-8E68-EBB31DE6EEF3}
+	EndGlobalSection
+EndGlobal
